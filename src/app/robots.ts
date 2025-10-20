@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
 				disallow: [],
 			},
 		],
-		sitemap: `https://nijimap.com/sitemap.xml`,
+		sitemap: `https://nextjs15-pwa.vercel.app/sitemap.xml`,
 	};
 }
